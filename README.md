@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I’m passionate about software development and lo
 
 ## My Skills
 - Programming Languages: Java, C/C++, Python, JavaScript, CSS, HTML5
-- Frameworks and Libraries: Django, NextJS, React
+- Data: SQL, PL/SQL, Oracle APEX
+- Networking; DNS, Samba, PAM, LDAP, Apache Web Server
 - Tools and Technologies: Git, Visual Studio Code, NetBeans IDE, Qt Creator, VirtualBox/VMware
 
 ## Connect with Me
