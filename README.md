@@ -1,5 +1,5 @@
 # Hi there, I'm Kadir Khayre! 👋
-Welcome to my GitHub profile! I’m Passionate about creating innovative solutions and transforming ideas into reality through code.
+Welcome to my GitHub profile! I’m passionate about creating innovative solutions and transforming ideas into reality through code.
 
 ## About Me
 - 💻 Software Developer
