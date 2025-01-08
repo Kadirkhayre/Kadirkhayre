@@ -13,7 +13,10 @@ Welcome to my GitHub profile! I’m passionate about creating innovative solutio
 - Networking; DNS, Samba, PAM, LDAP, Apache Web Server
 - Tools and Technologies: Git, Visual Studio Code, NetBeans IDE, Qt Creator, VirtualBox/VMware
 
-## Connect with Me
-- k.khayre@hotmail.com
+## Focus Areas
+- Frontend Development
+- Backend Development
+- Database Management
+- Clean code
 
 Thanks for visiting my profile! Have a great day! 😊
