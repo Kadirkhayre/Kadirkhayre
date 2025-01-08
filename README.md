@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m passionate about creating innovative solutio
 - 💻 Software Developer
 - 🌱 Currently learning new technologies and improving my skills
 - 🤝 Open to collaborating on exciting projects
-- 📫 How to reach me: k.khayre@hotmail.com
+- 📫 How to reach me: k.khayre@hotmail.com or www.kadirkhayredev.com
 
 ## My Skills
 - Programming Languages: Java, C/C++, Python, JavaScript, CSS, HTML5
